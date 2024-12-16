@@ -162,6 +162,7 @@ const Home = () => {
         </div>
       </div>
 
+
       {/* contact to instagram   */}
 
       <div className="relative max-w-[1440px] h-auto">
