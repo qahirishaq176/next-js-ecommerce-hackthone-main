@@ -4,7 +4,7 @@ import { FaChevronRight } from "react-icons/fa6";
 import { IoFilter } from "react-icons/io5";
 import { BiGridSmall } from "react-icons/bi";
 import { BsViewList } from "react-icons/bs";
-import AboveFooter from "../../Components/AboveFooter";
+import AboveFooter from "../Components/AboveFooter";
 
 const page = () => {
   const products = [

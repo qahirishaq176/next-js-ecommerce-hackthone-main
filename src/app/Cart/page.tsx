@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import { ImBin2 } from "react-icons/im";
-import AboveFooter from "../../Components/AboveFooter";
+import AboveFooter from "../Components/AboveFooter";
 import { FaChevronRight } from "react-icons/fa6";
 import Link from "next/link";
 
