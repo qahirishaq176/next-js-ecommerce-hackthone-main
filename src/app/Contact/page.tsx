@@ -2,7 +2,7 @@ import React from "react";
 import { FaPhone } from "react-icons/fa6";
 import { MdAccessTimeFilled } from "react-icons/md";
 import { FaLocationDot } from "react-icons/fa6";
-import AboveFooter from "../../Components/AboveFooter";
+import AboveFooter from "../Components/AboveFooter";
 
 const page = () => {
   return (

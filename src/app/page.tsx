@@ -1,9 +1,9 @@
 "use client";
 import Image from "next/image";
 import React from "react";
-import Hero  from '@/Components/Hero'
-import Sectiontwo from '@/Components/Sectiontwo'
-import Sectionfive from '@/Components/Sectionfive'
+import Hero  from '@/app/Components/Hero'
+import Sectiontwo from '@/app/Components/Sectiontwo'
+import Sectionfive from '@/app/Components/Sectionfive'
 import Link from 'next/link'
 
 const Home = () => {

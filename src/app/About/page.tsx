@@ -1,5 +1,5 @@
 import React from 'react'
-import AboveFooter from '../../Components/AboveFooter'
+import AboveFooter from '../Components/AboveFooter'
 
 const page = () => {
   return (
